@@ -7,7 +7,7 @@ This project is a graphical user interface (GUI) application built using Tkinter
 
 ## Prerequisites
 
-- Python [version]: Ensure that you have Python [version] installed on your system.
+- Python: Ensure that you have Python installed on your system.
 - Tkinter: This project requires the Tkinter library, which is typically included with Python installations. If it's not installed, you may need to install it separately.
 
 ## Getting Started
