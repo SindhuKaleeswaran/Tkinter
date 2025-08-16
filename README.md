@@ -1,7 +1,4 @@
 # Tkinter
-Sure! Here's a sample README file for a Tkinter project:
-
-# Tkinter Project
 
 This project is a graphical user interface (GUI) application built using Tkinter, a Python library for creating GUIs.
 
